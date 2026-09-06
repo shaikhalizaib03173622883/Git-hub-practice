@@ -1,6 +1,4 @@
-<img width="720" height="1600" alt="Image" 
-    src="https://github.com/user-attachments/assets/
-    40238f9e-07f9-4e46-8e4d-46b2497b9030" />
+<img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/40238f9e-07f9-4e46-8e4d-46b2497b9030" />
 
 
 # Ali Zaib
