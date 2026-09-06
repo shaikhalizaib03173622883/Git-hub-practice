@@ -15,3 +15,10 @@
 Currently Iam in First semester and i have not recieved yet any
 projects from university so currently have no any projects and 
 have learn about programming
+## Hobbies
+
+1. playing Cricket
+ - [x] practice daily
+ - [x] Join a local team
+ - [  ] particapting in tournament  
+2. coding
